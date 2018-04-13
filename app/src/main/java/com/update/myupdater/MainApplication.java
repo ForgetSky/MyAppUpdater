@@ -28,6 +28,7 @@ public class MainApplication extends Application {
 		context = getApplicationContext();
 
 //		startDaemonService();
+		
 
 	}
 	

@@ -55,6 +55,10 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </receiver>
+        <receiver
+            android:name="com.update.myupdater.UpdateAlarmReceiver">
+        </receiver>
+
 
     </application>
 
